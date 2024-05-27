@@ -1,0 +1,5 @@
+name :seif , money : 17K
+name :seif , money : 9K
+name :omar , money : 13K
+name :seif , money : 0000K
+name :seif , money : 17K
